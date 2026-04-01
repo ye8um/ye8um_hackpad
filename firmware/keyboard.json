@@ -1,0 +1,25 @@
+{
+    "manufacturer": "yebum yoo",
+    "keyboard_name": "ye8um",
+    "maintainer": "ye8um",
+    "development_board": "promicro",
+    "usb": {
+    "vid": "0xFEED",
+    "pid": "0x0001",
+    "device_version": "1.0.0"
+    },
+    "matrix_pins": {
+        "cols": ["D1","D2","D3"],
+        "rows": ["D0"]
+    },
+    "diode_direction": "ROW2COL",
+    "layouts": {
+    "LAYOUT_1x3_enc": {
+      "layout": [
+        {"matrix":[0,0],"x":0,"y":0},
+        {"matrix":[0,1],"x":1,"y":0},
+        {"matrix":[0,2],"x":2,"y":0}
+      ]
+    }
+  }
+}
