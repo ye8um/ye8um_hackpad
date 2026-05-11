@@ -9,6 +9,9 @@ Designed this project so that my setup can look cooler :D
 <img width="255" height="847" alt="image" src="https://github.com/user-attachments/assets/810b3598-fabc-4984-9cc9-560309a807b8" />
 
 BOM:
+
 3x Cherry MX Keycaps
+
 1x EC11 Rotary Encoder
+
 4x M3x12mm SHCS Bolts
