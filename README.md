@@ -6,7 +6,8 @@ Designed this project so that my setup can look cooler and be functional:D
 
 <img width="861" height="650" alt="image" src="https://github.com/user-attachments/assets/492b2a91-6f69-4064-bba9-c930a8c90ce3" />
 
-<img width="255" height="847" alt="image" src="https://github.com/user-attachments/assets/810b3598-fabc-4984-9cc9-560309a807b8" />
+<img width="170" height="580" alt="image" src="https://github.com/user-attachments/assets/3204e31b-26c1-48e2-8073-622e04120e72" />
+
 
 BOM:
 
